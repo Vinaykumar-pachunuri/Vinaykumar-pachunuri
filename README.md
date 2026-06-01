@@ -52,20 +52,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Tech Stack | Highlights |
-|---|---|---|
-| 🏫 **Smart Attendance & Analytics System** | Python, SQL, Power BI | Automated tracking with live dashboard reporting |
-| 📊 **Power BI Sales Dashboard** | Power BI, DAX, Excel | KPIs with drill-through and trend analysis |
-| 👥 **HR Analytics Dashboard** | Python, Pandas, Power BI | Attrition analysis & workforce insights |
-| 🔍 **SQL Data Analysis Project** | MySQL, Excel | End-to-end exploration and business reporting |
-| 🚒 **Fire Department Monitoring System** | Python, SQL | Real-time incident monitoring with alert classification |
-
-> 📁 Each project has its own repo with README, screenshots, and key findings.
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -82,6 +68,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Web & Other**
@@ -99,8 +86,8 @@
 | Badge | Certification | Issuer | Status |
 |---|---|---|---|
 | ☁️ | ServiceNow Certified System Administrator (CSA) | ServiceNow | ✅ Earned |
-| 📊 | Microsoft Power BI Data Analyst | Microsoft | 🔜 In Progress |
-| 📈 | Google Data Analytics Certificate | Google | 🔜 Planned |
+| 📊 | Microsoft Power BI Data Analyst | Microsoft | ✅ Earned |
+| 📈 | Google Data Analytics Certificate | Google | ✅ Earned |
 
 ---
 
